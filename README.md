@@ -2,7 +2,7 @@
 用HLS 實作 MAXI and Stream interface 不同 
 
 基本實作方式與lab1相同
-有些地方需要額外設定 請參考以下網址
+有些地方需要額外設定 請參考以下網址  
 https://github.com/bol-edu/course-lab_2/blob/2022.1/2022.1-Workbook-Lab2-KV260.pdf
 
 以下補充幾點網址內尚未說明的部分:
