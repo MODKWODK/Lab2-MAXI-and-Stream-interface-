@@ -1,4 +1,4 @@
-result --> upload to jupyter notebook
+result --> upload to jupyter notebook  
 source --> upload to hls_vitis   
 
 you would get the photo below after all the step 
